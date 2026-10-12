@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e83933e39506ba4b899bdbb96ee8f97, type: 3}
+  m_Name: QuestReturn
+  m_EditorClassIdentifier: Assembly-CSharp::QuestData
+  _title: Retourner voir l'aventurier
+  _description: "Sors du Dojon et retourne voir l'aventurier pour accomplir ta qu\xEAte"
+  _progressSuffix: 
+  _action: 4
+  _requiredAmount: 1
+  _nextQuest: {fileID: 11400000, guid: 322cf4c733cbe1a429593fe3a3451b62, type: 2}
+  _nextQuestDelay: 2
